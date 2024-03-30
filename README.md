@@ -3,3 +3,4 @@ Starting my new project by creating a CALENDAR, not really sure how to explain w
 my goal is to work everyday to try to get something new done.
 So please anyone that could give me some advice please will always be welcome!
 Thanks to you all!
+Just learning how to use Git and GitHub!
